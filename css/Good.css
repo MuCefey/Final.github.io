@@ -192,6 +192,11 @@ form.search{
     transition: .5s linear;
     color: white;
 }
+a:hover{
+	text-decoration:none;
+    color: white;
+	background-color:black;
+}
 .phone:hover{
     color:white;
     background-color: black;
