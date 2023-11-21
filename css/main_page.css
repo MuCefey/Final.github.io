@@ -275,7 +275,8 @@ img.inter{
 }
 a:hover{
     text-decoration: none;
-    color: black;
+    color: white;
+	background-color:black;
 }
 a{
     text-decoration: none;
