@@ -114,7 +114,9 @@ a {
 
 }
 a:hover{
-    color:black;
+	text-decoration:none;
+    color: white;
+	background-color:black;
 }
 .submit{
     background-color: blueviolet;
