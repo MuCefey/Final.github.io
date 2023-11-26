@@ -282,3 +282,7 @@ a{
     text-decoration: none;
     color:black;
 }
+.left_side_footer{
+display:flex;
+flex-direction:column;
+}
