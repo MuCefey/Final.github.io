@@ -275,14 +275,22 @@ img.inter{
 }
 a:hover{
     text-decoration: none;
-    color: white;
-	background-color:black;
+    background-color: black;
+    color: white
 }
 a{
     text-decoration: none;
     color:black;
 }
-.left_side_footer{
-display:flex;
-flex-direction:column;
+ul{
+    list-style: none;
+}
+.left_side_footer li{
+ margin-bottom: 10px;
+}
+.right_side_footer li{
+    margin-bottom: 10px;
+}
+.center_footer li{
+    margin-bottom: 10px;
 }
