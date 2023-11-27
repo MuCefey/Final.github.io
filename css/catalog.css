@@ -86,7 +86,7 @@ form.search{
 }
 .category{
     width: 740px;
-    height: 625px;
+    height: 720px;
     display:flex;
     margin: 0 auto;
     flex-wrap: wrap;
@@ -114,9 +114,7 @@ a {
 
 }
 a:hover{
-	text-decoration:none;
-    color: white;
-	background-color:black;
+    color:black;
 }
 .submit{
     background-color: blueviolet;
