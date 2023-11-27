@@ -171,11 +171,6 @@ form.search{
     transition: .5s linear;
     color: white;
 }
-a:hover{
-	text-decoration:none;
-    color: white;
-	background-color:black;
-}
 .phone:hover{
     color:blueviolet;
 }
@@ -242,5 +237,17 @@ textarea {
     color:white;
     font-size: 20px;
     font-family: 'Roboto', sans-serif;
+    margin-bottom: 10px;
+}
+ul{
+    list-style: none;
+}
+.left_side_footer li{
+ margin-bottom: 10px;
+}
+.right_side_footer li{
+    margin-bottom: 10px;
+}
+.center_footer li{
     margin-bottom: 10px;
 }
