@@ -192,15 +192,18 @@ nav ul.category li {
 }
 .good_text{
     width:  920px;
-    height: 170px;
+    height: 190px;
+    display: flex;
+    flex-direction: column;
     background-color: white;
     color:#000000;
     margin: 20px;
     font-size: 20px;
     font-family: 'Roboto', sans-serif;
     padding-left: 20px;
-    justify-content: space-between;
-    padding-top: 20px;
+    padding-top: 10px;
+    gap: 25px;
+
 }
 .price_field{
     width: 880px ;
@@ -234,14 +237,23 @@ a{
     text-decoration: none;
     color: black;
 }
+
 .right_side_footer{
     margin-right: 20px;
     margin-bottom: 20px;
 }
 a:hover{
     text-decoration: none;
+    background-color: black;
     color: white;
-	background-color:black;
+}
+.good_name:hover{
+    background-color: white;
+    color:blueviolet;
+}
+.good_characteristics:hover{
+    background-color: white;
+    color:blueviolet;
 }
 ul{
     list-style: none;
@@ -254,4 +266,7 @@ ul{
 }
 .center_footer li{
     margin-bottom: 10px;
+}
+.good_name{
+    width: 300px;
 }
