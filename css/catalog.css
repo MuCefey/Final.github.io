@@ -147,3 +147,15 @@ div.category_name{
     justify-content: center;
     border-radius:4px;
 }
+ul{
+    list-style: none;
+}
+.left_side_footer li{
+ margin-bottom: 10px;
+}
+.right_side_footer li{
+    margin-bottom: 10px;
+}
+.center_footer li{
+    margin-bottom: 10px;
+}
