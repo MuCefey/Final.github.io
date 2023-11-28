@@ -201,14 +201,13 @@ nav ul.category li {
     font-size: 20px;
     font-family: 'Roboto', sans-serif;
     padding-left: 20px;
-    padding-top: 10px;
     gap: 25px;
 
 }
 .price_field{
     width: 880px ;
     height: 50px;
-    background-color: black;
+    background-color: blueviolet;
     color: #ffffff;
     padding-left:15px ;
     padding-top: 10px;
@@ -228,7 +227,7 @@ nav ul.category li {
 }
 .buy:hover{
         color:white;
-        background-color: green;
+        background-color: black;
 }
 .price{
    padding-top: 5px; 
@@ -242,7 +241,7 @@ a{
     margin-right: 20px;
     margin-bottom: 20px;
 }
-a:hover{
+.footer a:hover{
     text-decoration: none;
     background-color: black;
     color: white;
