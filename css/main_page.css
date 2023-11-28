@@ -273,7 +273,7 @@ img.inter{
     margin-right: 20px;
     margin-bottom: 20px;
 }
-a:hover{
+.footer a:hover{
     text-decoration: none;
     background-color: black;
     color: white
