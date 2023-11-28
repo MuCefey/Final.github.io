@@ -92,6 +92,7 @@ form.search{
     flex-wrap: wrap;
     text-align: center;
     justify-content: center;
+    
 }
 div.category_1, div.category_2, div.category_3, div.category_4, div.category_5, div.category_6 {
     margin: 20px;
@@ -100,6 +101,7 @@ div.category_1, div.category_2, div.category_3, div.category_4, div.category_5, 
     background-color: BLACK;
     color: white;
     border-radius: 4px;
+    
 }
 .category_img{
     margin: 10px 0px 0px 0px ;
@@ -108,9 +110,9 @@ div.category_1, div.category_2, div.category_3, div.category_4, div.category_5, 
 }
 a {
     text-decoration: none;
-    transition: .5s linear;
     color: white;
     font-family: 'Roboto', sans-serif;
+    border-radius: 4px;
 
 }
 a:hover{
@@ -156,4 +158,9 @@ ul{
 }
 .center_footer li{
     margin-bottom: 10px;
+}
+.footer a:hover{
+    text-decoration: none;
+    background-color: black;
+    color: white
 }
